@@ -1,9 +1,12 @@
 
 class seb2
 {
-	public static (String [] args)
+	public static void main (String [] args)
 	{
-		System.out.pintln("hello world java mmm");
+		System.out.println("hello world java mmm");
+	}
+}
+
 	
 
 
